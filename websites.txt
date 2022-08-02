@@ -2,6 +2,8 @@ Consultar funcions: w3schools
 
 Pàgina oficial Python: Python.org
 
+Llibreria per consultar documentació: https://docs.python.org/es/3/library/
+
 Preguntes i respostes entre programadors: stackoverflow
 
 Style Guide for Python Code - PEP 8

@@ -18,3 +18,5 @@ mv -> mou o renombra l'arxiu
 mv <origen><destí>
 
 clear -> neteja la consola
+
+mkdir <nom carpeta> -> Crea una nova carpeta
